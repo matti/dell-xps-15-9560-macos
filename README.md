@@ -11,8 +11,12 @@ https://www.windowscentral.com/upgrade-wifi-dell-xps-15
 ## Trackpad
 
 http://osxdaily.com/2015/04/29/change-scrolling-speed-mouse-trackpad-mac/
- 
+
+## TODO
+
+ - bluetooth + wifi makes wifi to go super slow after sleep. disabled bluetooth in bios.
+
 
 ## WIP:
 http://touch-base.com/touch_device_list.asp
- * ELAN did not work
+ * Didn't work. Looks and feels like shit.
