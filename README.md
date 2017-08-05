@@ -15,6 +15,8 @@ http://osxdaily.com/2015/04/29/change-scrolling-speed-mouse-trackpad-mac/
 ## TODO
 
  - bluetooth + wifi makes wifi to go super slow after sleep. disabled bluetooth in bios.
+ - kaby lake speed thing
+ - post ssd config back to the thread
 
 
 ## WIP:
